@@ -1,0 +1,334 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* body{
+  width: 100%;
+  height: 100vh;
+} */
+
+/* ToDO List */
+
+/* .maincomponent{
+  background-color: rgb(94, 179, 228);
+  width: 100px;
+  height: 100px;
+}
+.centerdiv{
+  background-color: rgb(73, 122, 168);
+  width: 1550px;
+  height: 750px;
+  padding: 1px;
+}
+.card{
+  background-color: #fff;
+  width: 300px;
+  height: 500px;
+  margin-top: 100px;
+  margin-left: 600px;
+}
+h1{
+  text-align: center;
+  margin-top: 50px;
+  font-family: sans-serif;
+}
+.data{
+  margin-top: 70px;
+  margin-left: 50px;
+  display: flex;
+  position: relative;
+}
+.data input{
+  border: none;
+  border-bottom: 2px solid rgba(0, 0, 255, 0.473);
+  outline: none;
+  text-align: center;
+}
+.data button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  left: 180px;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  outline: none;
+  padding: 8px;
+  background-color: rgba(0, 0, 255, 0.473);
+  position: absolute;
+  top: -7px;
+  color: #fff;
+  font-size: 20px;
+  border: none;
+}
+.value{
+  display: flex;
+  margin-top: 30px;
+  margin-left: 47px;
+}
+.value button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  outline: none;
+  padding: 8px;
+  background-color: rgba(0, 0, 255, 0.473);
+  color: #fff;
+  font-size: 30px;
+  border: none;
+}
+.value button:hover{
+  background-color: rgb(228, 52, 52);
+}
+span{
+  margin-top: -3px;
+}
+span i{
+  font-size: 15px;
+}
+.value p{
+  margin-left: 20px;
+  color: rgb(121, 121, 228);
+  font-family: sans-serif;
+} */
+/* End TODO List */
+
+/* .inc,.dec{
+  padding: 10px;
+  border: none;
+  width: 120px;
+  margin-bottom: 10px;
+  background-color: rgba(5, 5, 5, 0.137);
+} */
+
+/* ********************************************ToDO LIST MUI***************************************************8 */
+/* .maindiv{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 700px;
+  background-color: rgba(94, 151, 189, 0.877);
+  
+}
+
+.card{
+  width: 350px;
+  height: 450px;
+  background-color: #fff;
+  border-radius: 20px;
+}
+h1{
+  margin-top: 20px;
+  font-family: sans-serif;
+  text-align: center;
+  text-shadow: 2px 2px rgba(100, 100, 100, 0.418);
+}
+.inputfield{
+  margin-top: 20px;
+  margin-left: 70px;
+}
+input{
+  border: none;
+  border-bottom: 2px solid rgba(0, 0, 255, 0.473);
+  outline: none;
+  text-align: center;
+  margin-left: 30px;
+  margin-right: 10px;
+  width: 160px;
+}
+.data{
+  display: flex;
+  margin-left: 35px;
+  margin-top: 40px;
+  position: relative;
+}
+h6{
+  font-size: 15px;
+  font-family: sans-serif;
+  position: absolute;
+  top: 10px;
+  left: 70px;
+} */
+
+/* ****************************************************** */
+
+
+/*********************************************  Notes **************************************  */
+/* .top{
+  display: flex;
+  width: 100%;
+  background-color: rgba(226, 189, 23, 0.815);
+  height: 80px;
+  padding: 1px;
+}
+h1{
+  font-family: sans-serif;
+  margin-left: 30px;
+  margin-top: 25px;
+  font-size: 20px;
+}
+.mainNote{
+  margin-top: 25px;
+  margin-left: 550px;
+  width: 430px;
+  min-height: 150px;
+  padding: 15px;
+  box-shadow: 2px 3px rgba(0, 0, 0, 0.144);
+  background-color: rgba(255, 255, 255, 0.253);
+}
+input{
+  margin-left: 20px;
+  border:none;
+  border-bottom: 2px solid rgba(255, 255, 0, 0.281);
+  border-radius: 20px;
+  outline: none;
+  width: 90%;
+  padding: 5px;
+  font-family: sans-serif;
+  font-size: 15px;
+}
+
+textArea{
+  margin-top: 10px;
+  margin-left: 20px;
+  border:3px solid rgba(63, 63, 63, 0.247);
+  width: 90%;
+  height: 50%;
+  outline: none;
+}
+.btn{
+  margin-left: 87%;
+  width: 30x;
+  height: 30px;
+  border-radius: 50%;
+  border:3px solid  rgba(87, 87, 87, 0.26);
+  color: rgba(226, 189, 23, 0.815);
+  margin-top: 10px;
+}
+.btn:hover{
+  background-color: rgba(226, 189, 23, 0.815);
+  color: white;
+  border: 3px solid white;
+}
+.mainCard{
+  background-color: #fff;
+  display: flex;
+  margin-left: 5px;
+}
+.card{
+  margin-top: 10%;
+  margin-left: 8%;
+  background-color: rgb(255, 255, 255);
+  width: 200px;
+  min-height: 130px;
+  box-shadow: 2px 3px rgba(0, 0, 0, 0.158);
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 5px;
+}
+.title{
+  text-align: center;
+  font-size: 22px;
+  font-weight: 600;
+}
+.content{
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 15px;
+}
+.del{
+  margin-left: 70%;
+  width: 70x;
+  height: 30px;
+  border-radius: 50%;
+  border:1px solid  rgba(65, 65, 65, 0.171);
+  color: rgba(238, 96, 96, 0.849);
+  margin-top: 50px;
+  background-color: #fff;
+}
+.del:hover{
+  background-color: rgb(243, 66, 66);
+  color: white;
+}
+.footer{
+  margin-top: 180px;
+  padding: 5px;
+  background-color: rgba(226, 189, 23, 0.815);
+  text-align: center;
+  font-weight: 600;
+} */
+/*********************************************  END Notes **************************************  */
+
+
+/* .maindiv{
+  width: 100%;
+  height: 100vh;
+  background-color: rgba(126, 67, 67, 0.938);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+h1{
+  font-family: sans-serif;
+  color: white;
+  margin-left: 15%;
+}
+.input{
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 20px;
+  width: 80%;
+  margin-left: -18px;
+  margin-bottom: 10px;
+  
+}
+p{
+  font-family: sans-serif;
+  color: rgb(236, 180, 25);
+  margin-bottom: 5px;
+  margin-left: 15%;
+}
+.btn{
+ padding: 2px;
+ margin-top: 5px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  border:2px solid rgb(255, 255, 255) ;
+  margin-left: 10px;
+  cursor: pointer;
+  padding:10px;
+  background-color: rgb(206, 102, 188);
+  margin-left: 15;
+} */
+
+/* ****************************           NAVBAR                *************************88 */
+.maindiv{
+  width: 100%;
+  height: 50px;
+  background-color: rgb(129, 128, 128);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.active{
+  border-bottom: 1px solid red;
+}
+
+.change1{
+  padding: 20px;
+  margin-left: 20px;
+}
+.search{
+  margin-top: 50px;
+  border: 2px solid black;
+  width: 200px;
+  margin-left: 680px;
+}
